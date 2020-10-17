@@ -5,6 +5,10 @@
   "repository": "https://github.com/Kosuke0820/my-textlint.git",
   "author": "Kosuke Yamashita <yamashita.ksk@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "lint": "textlint docs/",
+    "lint-fix": "textlint --fix docs/"
+  },
   "devDependencies": {
     "textlint": "^11.7.6",
     "textlint-rule-preset-ja-spacing": "^2.0.2",
