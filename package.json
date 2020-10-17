@@ -1,0 +1,14 @@
+{
+  "name": "my-textlint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kosuke0820/my-textlint.git",
+  "author": "Kosuke Yamashita <yamashita.ksk@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "textlint": "^11.7.6",
+    "textlint-rule-preset-ja-spacing": "^2.0.2",
+    "textlint-rule-preset-ja-technical-writing": "^4.0.1",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
