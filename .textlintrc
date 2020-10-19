@@ -8,6 +8,7 @@
       }
     },
     "preset-ja-technical-writing": true,
-    "spellcheck-tech-word": true
+    "spellcheck-tech-word": true,
+    "period-in-list-item": true
   }
 }
